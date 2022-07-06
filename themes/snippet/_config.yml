@@ -5,19 +5,19 @@
 
 ## menu
 menu:
-  - page: home
+  - page: 动态
     url: /
     icon:
-  - page: 前端
+  - page: 资源
     url: /categories/前端/
     icon:
-  - page: 后端
+  - page: 活动
     url: /categories/后端/
     icon:
-  - page: 工具
+  - page: 白皮书
     url: /categories/工具/
     icon:
-  - page: 时间轴
+  - page: 区块浏览器
     url: /archives/
     icon:
 
@@ -119,7 +119,7 @@ branding:
 
 ## 设置banner背景图片
 banner:
-  img: https://hexo-theme-snippet-1251680922.cos.ap-beijing.myqcloud.com/img/banner.jpg
+  img: /img/banner.png
 
 ## 首页列表底部面板
 homePanel: true
@@ -229,8 +229,8 @@ uyan:
 
 ## 网站访客统计
 visit_counter:
-  site: false
-  page: false
+  site: true
+  page: true
 
 ## 网站访问统计分析
 
@@ -253,7 +253,7 @@ baidu_site_verification:
 baidu_push: false
 
 #网站主题配置
-since: 2017
+since: 2022
 beian:
 robot: "all" ### 控制搜索引擎的抓取和索引编制行为，默认为all
 version: 1.3.0
