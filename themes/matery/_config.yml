@@ -11,7 +11,7 @@ menu:
     url: /通知
     # icon: fas fa-tags
   钱包:
-    url: /wallet
+    url: /2022/07/08/钱包/
     # icon: fas fa-bookmark
   白皮书:
     url: /whitepaper
@@ -34,6 +34,13 @@ menu:
         url: "http://explorer.xcnzg.com/?page=richlist"
 
     # icon: fas fa-user-circle
+  交易:
+    url: /
+    children:
+      - name: AEX
+        url: "https://www.aex.com/page/new_trade.html/xcn_ausd"
+      - name: FreiExchange
+        url: "https://freiexchange.com/market/XCN/BTC"
     
   # Contact:
   #   url: /contact
