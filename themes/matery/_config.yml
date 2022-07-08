@@ -7,14 +7,11 @@ menu:
   社区:
     url: /community.html
     # icon: fas fa-tags
-  通知:
-    url: /通知
-    # icon: fas fa-tags
   钱包:
-    url: /2022/07/08/钱包/
+    url: /2022/07/08/wallet/
     # icon: fas fa-bookmark
   白皮书:
-    url: /whitepaper
+    url: /
     children:
       - name: 中文
         url: files/The Mini-Blockchain Scheme_cn.pdf
