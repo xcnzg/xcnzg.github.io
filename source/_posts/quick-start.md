@@ -14,4 +14,4 @@ conf文件下载：[cryptonite.conf](https://xcnzg.com/medias/quick-start/crypto
 3.当桌面钱包程序更新到最新区块之后，电脑里如果有Nvidia（英伟达）的独立显卡，那可以尝试本机solo挖矿，目前算力较低，一块3060的独立显卡（算力有锁版本，算力预计28MH）按目前算力大概能挖出来两万个以上的XCN代币，solo挖矿需下载配套的挖矿程序，下载好挖矿程序之后点击solo.bat即可进入挖矿流程，这里需要注意的是杀毒软件会把挖矿程序判定为病毒，所以运行挖矿程序之前先关闭杀毒软件或者运行挖矿程序之后杀毒软件提示病毒要处理的时候把挖矿程序设置为可信任程序即可，正常挖矿界面如下图所示：
 ![氪石币钱包运行截图](https://xcnzg.com/medias/quick-start/002.png)
 
-挖矿软件下载：[XCN挖矿软件](hhttps://xcnzg.com/medias/quick-start/XCN.rar)
+挖矿软件下载：[XCN挖矿软件](https://xcnzg.com/medias/quick-start/XCN.rar)
