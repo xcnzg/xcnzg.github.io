@@ -63,8 +63,12 @@ var coverPostsCount = coverPosts.length;
     <div class="carousel-item red white-text bg-cover about-cover">
         <div class="container">
             <%- partial('_partial/bg-cover-content') %>
-
             <div class="cover-btns">
+                <a href="/2022/07/08/wallet/" class="waves-effect waves-light btn">
+                    <i class="fa fa-angle-double-down"></i>钱包下载
+                </a>
+            </div>
+            <!-- <div class="cover-btns">
                 <a href="<%=
                         [theme.dream, theme.music, theme.video, theme.recommend]
                                 .every(i=>i.enable)? "#indexCard": "#articles"
@@ -81,7 +85,7 @@ var coverPostsCount = coverPosts.length;
                         <i class="fab fa-github %>"></i><%= theme.githubLink.title %>
                     </a>
                 <% } %>
-            </div>
+            </div> -->
             <div class="cover-social-link"><%- partial('_partial/social-link') %></div>
         </div>
     </div>

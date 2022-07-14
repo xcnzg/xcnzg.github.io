@@ -2,10 +2,10 @@
 # 配置菜单导航的名称、路径和图标icon.
 menu:
   动态:
-    url: /news
+    url: /#articles
     # icon: fas fa-home
   社区:
-    url: /community.html
+    url: /#
     # icon: fas fa-tags
   钱包:
     url: /2022/07/08/wallet/
