@@ -13,5 +13,5 @@ categories: 钱包
 
 ### 手机钱包
 * [HebeWallet](https://hebe.cc/) 点击链接到官网下载
-  ![HebeWallet安卓版截图](https://xcnzg.com/medias/wallet/Screenshot_2022-07-10-14-13-35-95_ea48572996b34662e658f873a8b163a3.png)
+  ![HebeWallet安卓版截图](https://xcnzg.com/medias/wallet/Screenshot_2022-07-16-09-30-53-30_ea48572996b34662e658f873a8b163a3.png)
   
