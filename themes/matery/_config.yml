@@ -19,16 +19,16 @@ menu:
         url: files/The Mini-Blockchain Scheme_en.pdf
     # icon: fas fa-archive
   区块浏览器:
-    url: "http://explorer.xcnzg.com/"
+    url: "https://explorer.cryptonite.info/"
     children:
       - name: 地址/交易/区块
-        url: "http://explorer.xcnzg.com/?page=search"
+        url: "https://explorer.cryptonite.info/?page=search"
       - name: 最新出块
-        url: "http://explorer.xcnzg.com/"
+        url: "https://explorer.cryptonite.info/"
       - name: 统计数据
-        url: "http://explorer.xcnzg.com/?page=stats"
+        url: "https://explorer.cryptonite.info/?page=stats"
       - name: 富豪榜
-        url: "http://explorer.xcnzg.com/?page=richlist"
+        url: "https://explorer.cryptonite.info/?page=richlist"
 
     # icon: fas fa-user-circle
   交易:
